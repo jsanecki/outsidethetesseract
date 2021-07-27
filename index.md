@@ -4,7 +4,7 @@
   * July
   * August  
 
-## Eassays
+## Essays
 
 [Next Aeronautical Revolution](https://jsanecki.github.io/outsidethetesseract) -The next revolution in Aeronautical Engineering
 
