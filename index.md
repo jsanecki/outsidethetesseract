@@ -1,5 +1,10 @@
 ## Blog
 
+### [8.15.2021](/blog-entries/08152021-blog) 
+Working out the ability to use Github pages as a blog. 
+
+## Past Entries
+
 * 2021
   * July
   * August  
