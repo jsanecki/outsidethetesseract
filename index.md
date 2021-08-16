@@ -1,7 +1,7 @@
 ## Blog
-{% for post in site.posts %}
-### [{% post.title %}]({% post.url %}) 
-{% endfor %}
+
+### [Working with Github Pages]({% post_url 2021-08-15-Github %}) 
+
 ## Past Entries
 
 * 2021
