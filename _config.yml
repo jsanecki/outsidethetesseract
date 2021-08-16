@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+domain: outsidethetesseract.github.io       # if you want to force HTTPS, specify the domain without the http at the start
+url: https://outsidethetesseract.github.io  # the base hostname and protocol for your site
