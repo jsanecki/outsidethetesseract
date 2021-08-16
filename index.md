@@ -1,7 +1,6 @@
 ## Blog
 
-### [8.15.2021](/posts/08152021.md) 
-Working out the ability to use Github pages as a blog. 
+### [8.15.2021]{% _posts/2021-08-15-Github.md %}) 
 
 ## Past Entries
 
