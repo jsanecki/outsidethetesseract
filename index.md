@@ -1,7 +1,7 @@
 ## Blog
-
-### [8.15.2021]{% _posts/2021-08-15-Github.md %}) 
-
+{% for post in site.posts %}
+### [{% post.title %}]({% post.url %}) 
+{% endfor %}
 ## Past Entries
 
 * 2021
